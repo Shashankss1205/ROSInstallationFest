@@ -1,4 +1,4 @@
-![Need_for_ROS-1](https://github.com/sdhar04/ROSInstallationFest/assets/123410790/c5714493-7188-414c-ae0a-d3809814d0ed)## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
+![Need_for_ROS-1](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/229fc607-e819-4031-bc37-61ec8ee7ed6f))## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
 
 **Ever dreamed of building robots that can:**
 
@@ -8,7 +8,7 @@
 
 **Then buckle up, because ROS is your key to making it happen!**
 
-![BuckleUp](https://github.com/sdhar04/ROSInstallationFest/blob/main/assets/buckle_up.gif)
+![buckle_up](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/fed2b796-1efe-457f-a90f-c7749b0f5515)
 
 **What is ROS?**
 
@@ -19,8 +19,11 @@ Imagine a giant toolbox filled with everything you need to build a robot.  **ROS
 * **Reuse code from others:**  No need to start from scratch when someone else has already built something awesome. 
 * **Work with different robots:**  ROS is like a universal language for robots,  so you can switch things up without a headache.
 
-A typical desktop using ROS looks like this:
-![TurtlesimScreen](https://github.com/sdhar04/ROSInstallationFest/blob/main/assets/ROSExample.png)
+A typical desktop using ROS looks like this:!
+![TurtlesimScreen](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/b8ff9ad9-3df0-4582-9220-d5f6485aabfb)
+
+And with the right usage and more advanced bots, it can look like this!
+![AdvancedExample](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/da168725-0872-4dcf-83ab-818cc71b6051)
 
 **Why participate in the ROS Installation Fest?**
 
@@ -31,7 +34,7 @@ The Robotics Club is your gateway to the exciting world of ROS!  We'll help you:
 * **Build awesome robots with your fellow robot enthusiasts:** We have established a great community to help you through it all, and you will be learning with your friends!
 * **Get access to cool resources:** We have the tools you need to bring your robot dreams to life!
 * **Participate in competitions and showcase your skills:** This fest will be your induction to the Robotics Summer Camp, where you will be given exciting tasks and evaluated on the same, eventually opening a path for you to join the Robotics Club!
-![ROS](https://github.com/sdhar04/ROSInstallationFest/assets/123410790/09771e39-c08a-40de-a2d8-234dec40fc0a)
+![ROS](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/ad8bf702-7873-4ddf-bda8-6c1236b5610a)
 
 
 **So, what are you waiting for?** Participate in the ROS Installation Fest and unlock the potential of ROS!  Together, we can build robots that will change the world! 
