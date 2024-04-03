@@ -1,4 +1,4 @@
-![Need_for_ROS-1](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/229fc607-e819-4031-bc37-61ec8ee7ed6f))## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
+![Need_for_ROS-1](https://github.com/Shashankss1205/ROSInstallationFest/assets/123410790/229fc607-e819-4031-bc37-61ec8ee7ed6f)## Welcome to the Wonderful World of ROS!  **(Robot Operating System)** ✨
 
 **Ever dreamed of building robots that can:**
 
